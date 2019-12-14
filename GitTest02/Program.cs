@@ -10,6 +10,7 @@ namespace GitTest02
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("3333");
         }
     }
 }
